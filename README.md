@@ -6,3 +6,5 @@
 </h3>
 <h4 align="center">Tecnologias utilizadas na construção do projeto:</h2 align="center">
 <p align="center">HTML5, CSS3 e Javascript</p align="center">
+
+![contadorgif](https://user-images.githubusercontent.com/96597131/150656044-beeac486-5651-4d94-989e-d33f3d96cfb5.gif)
